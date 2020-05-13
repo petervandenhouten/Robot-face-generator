@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceGenerator", "..\source\FaceGenerator\FaceGenerator.csproj", "{D6B42116-1A52-404A-8308-7EAEC7C17C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceGeneratorClient", "..\source\FaceGeneratorClient\FaceGeneratorClient.csproj", "{9DEF43F6-D65F-42CC-818A-584B79D166F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B42116-1A52-404A-8308-7EAEC7C17C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B42116-1A52-404A-8308-7EAEC7C17C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B42116-1A52-404A-8308-7EAEC7C17C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B42116-1A52-404A-8308-7EAEC7C17C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEF43F6-D65F-42CC-818A-584B79D166F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEF43F6-D65F-42CC-818A-584B79D166F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEF43F6-D65F-42CC-818A-584B79D166F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEF43F6-D65F-42CC-818A-584B79D166F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94AFDAF2-6247-4249-BDEA-255A6F982266}
+	EndGlobalSection
+EndGlobal
